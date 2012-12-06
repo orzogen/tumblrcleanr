@@ -1,0 +1,17 @@
+{
+  "name": "Tumblr Cleanr",
+  "version": "0.1",
+  "manifest_version": 2,
+  "description": "Remove Tumblr's sponsored and promoted material.",
+  "icons": {
+    "16": "assets/icon-16.png",
+    "128": "assets/icon-128.png"
+  },
+  "content_scripts": [{
+    "matches": ["http://*.tumblr.com/dashboard"],
+    "css": ["styles/cleanr.css"],
+    "js": ["scripts/zepto.min.js", "scripts/cleanr.js"]
+  }],
+  "default_locale": "en",
+  "permissions": ["http://*.tumblr.com/*"]
+}
