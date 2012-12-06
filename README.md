@@ -5,7 +5,7 @@ Tumblr Cleanr is a Chrome extension that simplifies Tumblr's interface and remov
 #FAQ
 
 ##Where Can I find the Extension.
-[On the Chrome web store.](https://chrome.google.com/webstore/detail/tumblr-cleanr/kmmklbmmlmpoepihmnpohalndeipahac).
+[On the Chrome web store](https://chrome.google.com/webstore/detail/tumblr-cleanr/kmmklbmmlmpoepihmnpohalndeipahac).
 
 ##But I like both of those things!
 
